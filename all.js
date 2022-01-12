@@ -1,5 +1,5 @@
 
-
+// 建立VUE環境
 const app = {
     data(){
         return {
