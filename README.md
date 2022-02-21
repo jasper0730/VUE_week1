@@ -1,2 +1,2 @@
-# VUE_week1
- https://jasper0730.github.io/VUE_week1/
+# Vue_week1
+ https://jasper0730.github.io/Vue_week1/
